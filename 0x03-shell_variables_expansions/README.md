@@ -1,1 +1,1 @@
-displays the result of BREATH to the power LOVE
+ prints all possible combinations of two letters, except oo
