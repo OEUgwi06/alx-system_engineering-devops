@@ -1,1 +1,1 @@
-creates a new local variable
+prints the result of the addition of 128
