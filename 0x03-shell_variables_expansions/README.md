@@ -1,1 +1,1 @@
-prints the result of the addition of 128
+prints the result of POWER divided by DIVIDE, followed by a new line
